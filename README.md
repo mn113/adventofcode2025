@@ -1,12 +1,13 @@
 # Advent of Code 2025
 
-![](https://img.shields.io/badge/days%20completed-1-red) ![](https://img.shields.io/badge/stars%20⭐-02-yellow)
+![](https://img.shields.io/badge/days%20completed-2-red) ![](https://img.shields.io/badge/stars%20⭐-04-yellow)
 
 https://adventofcode.com/2025
 
 | Puzzle | Difficulty | Fun | Completion | Python | Ruby | Elixir | PHP | JS | other |
 |--------|------------|-----|------------|:------:|:----:|:------:|:---:|:--:|:-----:|
 | [Day 1: Secret Entrance](https://adventofcode.com/2025/day/1) | 1 | 2 | :star: :star: | :snake: **[01.py](python/01.py)** | - | - | - | - | - |
+| [Day 2: Gift Shop](https://adventofcode.com/2025/day/2) | 2 | 2 | :star: :star: | :snake: **[02.py](python/02.py)** | - | - | - | - | - |
 
 _**Bold** = primary language for that day (others are ports)_
 
