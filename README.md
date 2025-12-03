@@ -8,6 +8,7 @@ https://adventofcode.com/2025
 |--------|------------|-----|------------|:------:|:----:|:------:|:---:|:--:|:-----:|
 | [Day 1: Secret Entrance](https://adventofcode.com/2025/day/1) | 1 | 2 | :star: :star: | :snake: **[01.py](python/01.py)** | - | - | - | - | - |
 | [Day 2: Gift Shop](https://adventofcode.com/2025/day/2) | 2 | 2 | :star: :star: | :snake: **[02.py](python/02.py)** | - | - | - | - | - |
+| [Day 3: Lobby](https://adventofcode.com/2025/day/3) | 1 | 2 | :star: :star: | :snake: **[03.py](python/03.py)** | - | - | - | - | - |
 
 _**Bold** = primary language for that day (others are ports)_
 
