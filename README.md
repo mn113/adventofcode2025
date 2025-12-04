@@ -1,6 +1,6 @@
 # Advent of Code 2025
 
-![](https://img.shields.io/badge/days%20completed-2-red) ![](https://img.shields.io/badge/stars%20⭐-04-yellow)
+![](https://img.shields.io/badge/days%20completed-4-red) ![](https://img.shields.io/badge/stars%20⭐-08-yellow)
 
 https://adventofcode.com/2025
 
@@ -9,6 +9,7 @@ https://adventofcode.com/2025
 | [Day 1: Secret Entrance](https://adventofcode.com/2025/day/1) | 1 | 2 | :star: :star: | :snake: **[01.py](python/01.py)** | - | - | - | - | - |
 | [Day 2: Gift Shop](https://adventofcode.com/2025/day/2) | 2 | 2 | :star: :star: | :snake: **[02.py](python/02.py)** | - | - | - | - | - |
 | [Day 3: Lobby](https://adventofcode.com/2025/day/3) | 1 | 2 | :star: :star: | :snake: **[03.py](python/03.py)** | - | - | - | - | - |
+| [Day 4: Printing Department](https://adventofcode.com/2025/day/4) | 1 | 2 | :star: :star: | :snake: **[04.py](python/04.py)** | - | - | - | - | - |
 
 _**Bold** = primary language for that day (others are ports)_
 
