@@ -1,6 +1,6 @@
 # Advent of Code 2025
 
-![](https://img.shields.io/badge/days%20completed-8-red) ![](https://img.shields.io/badge/stars%20⭐-19-yellow)
+![](https://img.shields.io/badge/days%20completed-8-red) ![](https://img.shields.io/badge/stars%20⭐-20-yellow)
 
 https://adventofcode.com/2025
 
@@ -17,6 +17,7 @@ https://adventofcode.com/2025
 | [Day 9: Movie Theater](https://adventofcode.com/2025/day/9) | 5 | 2 | :star: | - | :rotating_light: **[09.rb](ruby/09.rb)** | - | - | - | - |
 | [Day 10: Factory](https://adventofcode.com/2025/day/10) | 3 | 3 | :star: | - | :rotating_light: **[10.rb](ruby/10.rb)** | - | - | - | - |
 | [Day 11: Reactor](https://adventofcode.com/2025/day/11) | 4 | 4 | :star: :star: | :snake: **[11.py](python/11.py)** | - | - | - | - | - |
+| [Day 12: Christmas Tree Farm](https://adventofcode.com/2025/day/12) | 1 | 2 | :star: | :snake: **[12.py](python/12.py)** | - | - | - | - | - |
 
 _**Bold** = primary language for that day (others are ports)_
 
