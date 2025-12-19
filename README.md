@@ -14,7 +14,7 @@ https://adventofcode.com/2025
 | [Day 6: Trash Compactor](https://adventofcode.com/2025/day/6) | 2 | 3 | :star: :star: | - | - | :heart_decoration: **[06.ex](elixir/06.ex)** | - | - | - |
 | [Day 7: Laboratories](https://adventofcode.com/2025/day/7) | 4 | 2 | :star: | - | - | :heart_decoration: **[07.ex](elixir/07.ex)** | - | - | - |
 | [Day 8: Playground](https://adventofcode.com/2025/day/8) | 2 | 3 | :star: :star: | - | :rotating_light: **[08.rb](ruby/08.rb)** | - | - | - | - |
-| [Day 9: Movie Theater](https://adventofcode.com/2025/day/9) | 5 | 2 | :star: | - | :rotating_light: **[09.rb](ruby/09.rb)** | - | - | - | - |
+| [Day 9: Movie Theater](https://adventofcode.com/2025/day/9) | 5 | 3 | :star: :star: | - | :rotating_light: **[09.rb](ruby/09.rb)** | - | - | - | - |
 | [Day 10: Factory](https://adventofcode.com/2025/day/10) | 3 | 3 | :star: | - | :rotating_light: **[10.rb](ruby/10.rb)** | - | - | - | - |
 | [Day 11: Reactor](https://adventofcode.com/2025/day/11) | 4 | 4 | :star: :star: | :snake: **[11.py](python/11.py)** | - | - | - | - | - |
 | [Day 12: Christmas Tree Farm](https://adventofcode.com/2025/day/12) | 1 | 2 | :star: | :snake: **[12.py](python/12.py)** | - | - | - | - | - |
