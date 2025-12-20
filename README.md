@@ -1,6 +1,6 @@
 # Advent of Code 2025
 
-![](https://img.shields.io/badge/days%20completed-8-red) ![](https://img.shields.io/badge/stars%20⭐-20-yellow)
+![](https://img.shields.io/badge/days%20completed-10-red) ![](https://img.shields.io/badge/stars%20⭐-22-yellow)
 
 https://adventofcode.com/2025
 
@@ -12,7 +12,7 @@ https://adventofcode.com/2025
 | [Day 4: Printing Department](https://adventofcode.com/2025/day/4) | 1 | 2 | :star: :star: | :snake: **[04.py](python/04.py)** | - | - | - | - | - |
 | [Day 5: Cafeteria](https://adventofcode.com/2025/day/5) | 3 | 3 | :star: :star: | - | - | :heart_decoration: **[05.ex](elixir/05.ex)** | - | - | - |
 | [Day 6: Trash Compactor](https://adventofcode.com/2025/day/6) | 2 | 3 | :star: :star: | - | - | :heart_decoration: **[06.ex](elixir/06.ex)** | - | - | - |
-| [Day 7: Laboratories](https://adventofcode.com/2025/day/7) | 4 | 2 | :star: | - | - | :heart_decoration: **[07.ex](elixir/07.ex)** | - | - | - |
+| [Day 7: Laboratories](https://adventofcode.com/2025/day/7) | 4 | 2 | :star: :star: | - | - | :heart_decoration: **[07.ex](elixir/07.ex)** | - | - | - |
 | [Day 8: Playground](https://adventofcode.com/2025/day/8) | 2 | 3 | :star: :star: | - | :rotating_light: **[08.rb](ruby/08.rb)** | - | - | - | - |
 | [Day 9: Movie Theater](https://adventofcode.com/2025/day/9) | 5 | 3 | :star: :star: | - | :rotating_light: **[09.rb](ruby/09.rb)** | - | - | - | - |
 | [Day 10: Factory](https://adventofcode.com/2025/day/10) | 3 | 3 | :star: | - | :rotating_light: **[10.rb](ruby/10.rb)** | - | - | - | - |
@@ -53,19 +53,3 @@ Run a solution
 cd ruby
 ruby 08.rb
 ```
-
-## NodeJS
-
-> Node Version: 22.13
-
-Run a solution
-
-```sh
-cd js
-node 07.js
-```
-
-## TODO
-
-- document more comprehensively
-- visual output
